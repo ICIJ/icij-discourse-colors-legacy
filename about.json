@@ -5,11 +5,11 @@
    "color_schemes": {
       "ICIJ Light": {
         "primary": "505050",
-        "secondary": "ffffff",
+        "secondary": "F0F0F0",
         "tertiary": "17a2b8",
         "quaternary": "CA4024",
-        "header_background": "852308",
-        "header_primary": "F8B700",
+        "header_background": "ffffff",
+        "header_primary": "852308",
         "highlight": "F8B700",
         "danger": "dc3545",
         "success": "28a745",
